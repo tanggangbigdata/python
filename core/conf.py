@@ -12,18 +12,18 @@ class conf:
 		      "hive":{
      			      "host":"hdp1.bi.bj2.yongche.com",
 			      "username":"hive",
-			      "password":"hive",
+			      "password":"",
 			      "database":"bi_metastore",
 			      "port":10000},
 		     "188_mysql":{
-  				 "user":"tanggang",
-				 "password":"tang2016",
+  				 "user":"",
+				 "password":"",
 				 "host":"172.17.1.188",
 				 "database":"hive_alert"},
 			 "to_54": {
 				 "host": "127.0.0.1",
-				 "username": "root",
-				 "password": "qwouca,203adfa",
+				 "username": "",
+				 "password": "",
 				 "database": "yc_bit",
 				 "target_host": "172.17.0.54"
 			}
